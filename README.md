@@ -58,12 +58,7 @@ Extras: a CSRF token on every POST form, and a new session on every login.
 
 ## 5. Screenshots
 
-Put them in `screenshots/` and link them here:
-
-1. Register page with error messages
-2. Login page
-3. The list with some to-dos (one done)
-4. The site in a phone-sized window (about 360 px)
+`screenshots/` :
 
 ## 6. Answers
 
